@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/e230722d022455af312316a2262fb8096fa1cb7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afdec954ed427d24bc7e377580c911fce6f2e7c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/915f9958a25cbd4bb339fda60cdcaecd05a44891/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fa2ae448601d12e9e01e52e2a4df6c2c37ecc16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/024e44333b7bc487bb9546e192efcb4e7a221255/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_097e8a638bb96ec102c8e361f3201a9d3304c80d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/004d2cb62b5ac27fdece20805a70f953c8defbe2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_420b93ec690d58779d57d336aabcabc2b02d80f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/724f2f76bebfa2815567f9e823f30bcebc1859e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65093bb86ab42147648c11225f8c21e06fa2771f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4cf6a8ab0f4ecf8a5076bcebb8c867bd46e5097c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/91b41f1331c12f61721998448f1b42fbd0d791e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f20d1bcc72d9ebc3820b85d7cc7e06b222d17a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/aee90e1c69edafe3d714786255abea446d5dc781/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0d71d7f98e3fd9822f200a778d1af4566db4d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/604781452f90b74f09b44d64ab2d1f6ddd116003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20e72fc125033955acf80b570a2cb5ed5fc2c6a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/6e58095bc7f88a7a4ed029bfbc94d57b528739fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c93684d52ec249470175e3bc3738c068eefd779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/7b8331d41b1e4c2d7240268af6cf400e55af1e33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ab31cbd71129df67dfc7d3c1622f3ab6ddff06d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/5b9fac3a9b2c88f60f3316c0de82edd495d7691a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_861618e3eb422229f37965907292d0f84b82cab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/94c3bf454b8794ca1edcd5d675bf6d8c17f42bba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04c77501c2097e5985f023cb92d614dcf72eb0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/28ddbbbd507a402c0c4312e05ed7ab760e5925be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cfab9912ae21dfb57d34833ef16a42716e92fc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/44d441e8764324dad5f3b52ae9e182f3d398b102/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b32fb390ce8b0148236639b6d08f341977f4cf90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/b37c2b60101ac05ea2955e1f71708b6f1da14e13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fae398fe1c8848f6b49cb2600b0f912873e7e31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/47b46fd87b210575cdde90f613b4a23545c9469d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebb13dbc6f52ceca796f095358052ff76ddd0070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af633cbc2752c0e0e0e7168601cb1f5d86dd979d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/f1987716ffbc2a3432c039100f89f4e16c379178/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_586f6fc60e119478831de3d4a62e6b02f266142c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69deb602250cae3b65c91b59db3c5d5ce0fc5266">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2fa1f696fae066ec1e88f7c4de7b42c07f58e834/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/2044ff97be12e5adea87a57a43e0ce28612ac900/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eb51a60962976db2ae04e4792c8d130a0cd6c49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/2dfa38a064a6999fc9b6292ddc408706b309397e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf027eca7349529f1549055676e3963f08b7cd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/6f5d6ccff2fc238469a776a8b22fdb2e76375541/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e7bf71614c1dd829761c6745b74dddf2fdb2d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joaozao/.android/build-cache/538e2727dafb5c1152036a04050926758a5fcfa0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/joaozao/Documents/Dev_Android_Rx_MVP/Retrospective/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0f5d9a20f4e0f32cfae3ddc313387e728ed4ac7/classes.dex" />
+    </item>
+
+</items>

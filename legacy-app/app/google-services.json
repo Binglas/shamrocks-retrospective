@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "405905630058",
+    "firebase_url": "https://shamrocksretrospective.firebaseio.com",
+    "project_id": "shamrocksretrospective",
+    "storage_bucket": "shamrocksretrospective.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405905630058:android:bdc110fe857a6067",
+        "android_client_info": {
+          "package_name": "com.sourcedev.joaozao.retrospective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405905630058-gpr7lollgoe2q5ahqbg425u585dsvgf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDftfvG27w5Pxz_ilA1nCox2Va4QaDmmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
